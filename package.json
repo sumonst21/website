@@ -82,7 +82,7 @@
     "react-dom": "^16.0.0",
     "react-instantsearch": "^5.1.0",
     "regenerator-runtime": "^0.13.1",
-    "semver": "^5.4.1",
+    "semver": "^5.7.2",
     "unfetch": "^3.0.0",
     "worker-loader": "^1.1.1"
   },
